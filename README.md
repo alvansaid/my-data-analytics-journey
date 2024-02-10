@@ -21,7 +21,7 @@ _description_: Analyzing **student background dataset** from kaggle data using *
 
 3. **Tableau Public Dashboard: Indonesian Based Salary Review Over Years**
 
-_link to repository_: [Indonesian Based Salary Report]([https://public.tableau.com/views/IndonesianSalaryReportfromKaggle/IndonesianSalaryReport?:language=en-US&:display_count=n&:origin=viz_share_link])
+_link to repository_: [Indonesian Based Salary Report](https://public.tableau.com/views/IndonesianSalaryReportfromKaggle/IndonesianSalaryReport?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 _about_: Dashboard reports, data visualization, descriptive analytics, gain insights from dashboard.
 
