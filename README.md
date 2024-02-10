@@ -18,8 +18,13 @@ Here are all my journey story on data analytics projects that all I have been fi
 - _link to repository_: [Indonesian Based Salary Report]([https://github.com/alvansaid/data_mining_eda_campus_recruitment_kaggle](https://public.tableau.com/views/IndonesianSalaryReportfromKaggle/IndonesianSalaryReport?:language=en-US&:display_count=n&:origin=viz_share_link))
 - _about_: Dashboard reports, data visualization, descriptive analytics, gain insights from dashboard.
 - _description_: The purpose is to look up about growth and distribution based salary across Provinces in Indonesia. So many insights that government can be seen in this reports including:
+
 a. DKI Jakarta is the highest salary at Rp4.452.724 on 2022, as capital city of Indonesia
+
 b. Average annual province salary increase is Rp36.538 on 2022
+
 c. Kep. Bangka Belitung increased the salary with additional Rp1.049.881 on 2022, which is the highest increased salary over provinces.
+
 d. There are some provinces that decreases its base salary.
+
 e. DKI Jakarta has average base salary at 1.7 thousands rupiahs which has current salary is 4.4 thousands rupiahs. This is showing us that there’s significant increase base salary in 10 years for DKI Jakarta.
