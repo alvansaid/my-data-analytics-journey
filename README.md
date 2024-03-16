@@ -31,3 +31,11 @@ _description_: The purpose is to look up about growth and distribution based sal
 - Kep. Bangka Belitung increased the salary with additional Rp1.049.881 on 2022, which is the highest increased salary over provinces.
 - There are some provinces that decreases its base salary.
 - DKI Jakarta has average base salary at 1.7 thousands rupiahs which has current salary is 4.4 thousands rupiahs. This is showing us that there’s significant increase base salary in 10 years for DKI Jakarta.
+
+4. **Dashboard Metabase Reports**
+
+_link to repository_: [Dashboard Metabase Reports](https://github.com/alvansaid/my-data-analytics-journey/blob/main/Dashboard%20Metabase%20Reports%20by%20Alva%20Andhika%20Sa'id.pdf)
+
+_about_: Dashboard reports, data visualization, descriptive analytics, gain insights from dashboard.
+
+_description_: All dashboard reports that I have built in Metabase. Go to the link to see the inspired dashboard design and some insights from those dashboards!
